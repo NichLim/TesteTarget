@@ -1,4 +1,4 @@
-## Teste Targer
+## Teste Target
 Bem vindxs ao repositório com o código fonte das perguntas do Teste :D.
 
 ## Arquivos
