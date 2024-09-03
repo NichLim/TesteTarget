@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class App {
+public class fibonacci {
     public static void main(String[] args) throws Exception {
         Scanner userInput = new Scanner(System.in);
         ArrayList<Integer> fibonacci = new ArrayList<Integer>(Arrays.asList(0, 1));
