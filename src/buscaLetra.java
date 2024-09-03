@@ -11,7 +11,7 @@ public class buscaLetra {
         for (int index = 0; index < arrayDaFrase.length; index++) { //percorre o array criado
             if (arrayDaFrase[index] == letraBuscada) { //compara durante o char do array com a letra desejada em cada iteração 
                 count++; //incrementa o contador de aparições
-                posicoesDaLetra.add(index + 1); //incrementa a lista de psições
+                posicoesDaLetra.add(index + 1); //incrementa a lista de posições com adaptação pois o índice começa em 0
             }
         }
 
